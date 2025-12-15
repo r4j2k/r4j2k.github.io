@@ -1,2 +1,3 @@
 # r4j2k.github.io
-hosts blogs, notes &amp; something interesting
+
+hosts blogs, notes & something interesting
