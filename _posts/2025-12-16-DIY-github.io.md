@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  wanna DIY *.github.io page?
-date:   2025-12-16 00:01:01 +0530
+date:   2025-12-16 01:01:01 +0530
 categories: jekyll
 ---
 ## sign-up
@@ -18,5 +18,5 @@ git init {REPOSITORY-NAME}
 cd {REPOSITORY-NAME}
 jekyll new --force --skip-bundle .
 bundle install
-bundle exec jekyll serve
+bundle exec jekyll serve --livereload
 ```
